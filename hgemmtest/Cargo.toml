@@ -1,0 +1,8 @@
+[package]
+name = "hgemmtest"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+half    = "2"
+opencl3 = "0.9"
